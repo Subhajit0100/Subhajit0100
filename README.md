@@ -15,14 +15,21 @@ at IIT Kharagpur
 
 ## 🚀 Featured Projects
 
-### Edge AI Parkinson's Disease Detection
-- Deployed a MobileNetV2-based diagnostic pipeline on PYNQ-Z2.
-- Implemented INT8 Quantization-Aware Training and ONNX deployment.
-- Optimized the model for low-power edge inference.
+### 🧠 Parkinson's Disease Detection on PYNQ-Z2
+**PyTorch | MobileNetV2 | INT8 Quantization | ONNX | PYNQ-Z2**
 
-### Smart Wireless LED Street Lighting
-- Developed an MQTT-based smart LED street-lighting system.
-- Focused on wireless telemetry, remote monitoring, and energy-efficient operation.
+Edge AI pipeline for Parkinson's disease detection using MobileNetV2,
+INT8 quantization and ONNX Runtime on the PYNQ-Z2 FPGA platform.
+
+🔗 [View Project](https://github.com/Subhajit0100/Parkinson-PYNQ-Quantization)
+
+### 💡 Smart Wireless LED Street Lighting
+**C | MQTT | IoT | Embedded Systems**
+
+MQTT-based energy-efficient smart wireless LED street-lighting system
+for remote monitoring and control.
+
+🔗 [View Project](https://github.com/Subhajit0100/A-message-queuing-telemetry-transport-MQTT-protocol)
 
 ## 💼 Experience
 
