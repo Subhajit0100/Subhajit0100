@@ -23,13 +23,18 @@ INT8 quantization and ONNX Runtime on the PYNQ-Z2 FPGA platform.
 
 🔗 [View Project](https://github.com/Subhajit0100/Parkinson-PYNQ-Quantization)
 
-### 💡 Smart Wireless LED Street Lighting
-**C | MQTT | IoT | Embedded Systems**
+## 📄 Publications & Research
 
-MQTT-based energy-efficient smart wireless LED street-lighting system
-for remote monitoring and control.
+### MQTT-Based Energy-Efficient Smart Wireless LED Street Lighting
 
-🔗 [View Project](https://github.com/Subhajit0100/A-message-queuing-telemetry-transport-MQTT-protocol)
+**Journal of Optics — Springer Nature**
+
+Research on an MQTT-based smart wireless LED street-lighting system
+for energy-efficient monitoring and control.
+
+- 📄 [Published Paper](https://link.springer.com/article/10.1007/s12596-024-02027-1)
+- 💻 [Source Code](https://github.com/Subhajit0100/A-message-queuing-telemetry-transport-MQTT-protocol)
+- 🔗 DOI: [10.1007/s12596-024-02027-1](https://doi.org/10.1007/s12596-024-02027-1)
 
 ## 💼 Experience
 
