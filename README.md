@@ -15,13 +15,12 @@ at IIT Kharagpur
 
 ## 🚀 Featured Projects
 
-### 🧠 Parkinson's Disease Detection on PYNQ-Z2
+### 🧠 Parkinson's Disease Detection on PYNQ-Z2 (Submitted to Journal — Under Review)
 **PyTorch | MobileNetV2 | INT8 Quantization | ONNX | PYNQ-Z2**
 
 Edge AI pipeline for Parkinson's disease detection using MobileNetV2,
 INT8 quantization and ONNX Runtime on the PYNQ-Z2 FPGA platform.
 
-🔗 [View Project](https://github.com/Subhajit0100/Parkinson-PYNQ-Quantization)
 
 ## 📄 Publications & Research
 
